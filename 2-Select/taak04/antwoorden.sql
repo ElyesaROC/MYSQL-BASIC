@@ -1,5 +1,5 @@
 -- Opdracht 1 
-
+SELECT Max(wage) As hoogste_loon_speler_fc_utrecht FROM players WHERE club = "FC Utrecht"
 -- Opdracht 2 
 
 -- Opdracht 3
